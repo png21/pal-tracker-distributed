@@ -2,6 +2,10 @@ package io.pivotal.pal.tracker.eurekaserver;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> fb52d71... Enable service discovery
 =======
 
 >>>>>>> fb52d71... Enable service discovery
@@ -25,7 +29,11 @@ public class App {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fb52d71... Enable service discovery
 =======
 }
 >>>>>>> fb52d71... Enable service discovery

@@ -15,6 +15,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 .authorizeRequests()
                 .anyRequest().permitAll()
                 .and()
@@ -23,6 +24,8 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 }
 =======
+=======
+>>>>>>> fb52d71... Enable service discovery
 =======
 >>>>>>> fb52d71... Enable service discovery
 =======
@@ -36,6 +39,9 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fb52d71... Enable service discovery
+=======
 >>>>>>> fb52d71... Enable service discovery
 =======
 >>>>>>> fb52d71... Enable service discovery
