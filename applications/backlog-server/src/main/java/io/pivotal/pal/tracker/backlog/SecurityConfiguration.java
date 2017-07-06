@@ -12,6 +12,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http
+<<<<<<< HEAD
                 .authorizeRequests()
                 .anyRequest().permitAll()
                 .and()
@@ -19,3 +20,12 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     }
 
 }
+=======
+            .authorizeRequests()
+            .anyRequest().permitAll()
+            .and()
+            .csrf().disable();
+    }
+
+}
+>>>>>>> fb52d71... Enable service discovery

@@ -10,6 +10,10 @@ import org.springframework.web.client.RestOperations;
 
 import java.util.TimeZone;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fb52d71... Enable service discovery
 @EnableEurekaClient
 @SpringBootApplication
 @ComponentScan({"io.pivotal.pal.tracker.timesheets", "io.pivotal.pal.tracker.restsupport"})
