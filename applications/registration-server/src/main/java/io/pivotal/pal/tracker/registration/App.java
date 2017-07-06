@@ -11,6 +11,9 @@ import java.util.TimeZone;
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fb52d71... Enable service discovery
+=======
 >>>>>>> fb52d71... Enable service discovery
 =======
 >>>>>>> fb52d71... Enable service discovery
