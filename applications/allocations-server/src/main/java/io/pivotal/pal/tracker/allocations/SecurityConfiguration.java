@@ -13,6 +13,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http
 <<<<<<< HEAD
+<<<<<<< HEAD
                 .authorizeRequests()
                 .anyRequest().permitAll()
                 .and()
@@ -21,6 +22,8 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 }
 =======
+=======
+>>>>>>> fb52d71... Enable service discovery
             .authorizeRequests()
             .anyRequest().permitAll()
             .and()
@@ -28,4 +31,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     }
 
 }
+<<<<<<< HEAD
+>>>>>>> fb52d71... Enable service discovery
+=======
 >>>>>>> fb52d71... Enable service discovery

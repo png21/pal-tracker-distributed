@@ -1,5 +1,9 @@
 package io.pivotal.pal.tracker.eurekaserver;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> fb52d71... Enable service discovery
 =======
 
 >>>>>>> fb52d71... Enable service discovery
@@ -15,7 +19,11 @@ public class App {
         SpringApplication.run(App.class, args);
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fb52d71... Enable service discovery
 =======
 }
 >>>>>>> fb52d71... Enable service discovery
